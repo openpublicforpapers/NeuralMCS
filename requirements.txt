@@ -19,7 +19,7 @@ pandas==0.24.2
 Pillow==6.0.0
 plyfile==0.7
 pox==0.2.5
-protobuf==3.7.1
+protobuf==3.18.3
 pygraphviz==1.5
 pyparsing==2.3.1
 pyrsistent==0.15.2
